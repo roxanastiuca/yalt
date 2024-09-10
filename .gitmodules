@@ -1,0 +1,3 @@
+[submodule "opentracer"]
+	path = opentracer
+	url = git@github.com:roxanastiuca/opentracer.git
